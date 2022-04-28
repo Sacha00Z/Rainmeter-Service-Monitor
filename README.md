@@ -7,4 +7,4 @@ A Rainmeter skin for monitoring specific Windows services. Tuned for Quadient In
 ## Usage
 
 1. Install Rainmeter
-2. Download and execute the .rmskin file here.
+2. Download and execute the .rmskin file [here](https://github.com/Sacha00Z/Rainmeter-Service-Monitor/blob/main/deploy/).
